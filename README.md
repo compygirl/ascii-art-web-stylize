@@ -25,7 +25,7 @@ Ascii-art-stylize consists on making your site :
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:bbilisbe/ascii-art-web.git
+git clone git@github.com:compygirl/ascii-art-web-stylize.git
 ```
 Go to the downloaded repository:
 
